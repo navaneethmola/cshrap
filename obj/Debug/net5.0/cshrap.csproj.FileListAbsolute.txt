@@ -1,0 +1,16 @@
+F:\cshrap\bin\Debug\net5.0\cshrap.exe
+F:\cshrap\bin\Debug\net5.0\cshrap.deps.json
+F:\cshrap\bin\Debug\net5.0\cshrap.runtimeconfig.json
+F:\cshrap\bin\Debug\net5.0\cshrap.runtimeconfig.dev.json
+F:\cshrap\bin\Debug\net5.0\cshrap.dll
+F:\cshrap\bin\Debug\net5.0\ref\cshrap.dll
+F:\cshrap\bin\Debug\net5.0\cshrap.pdb
+F:\cshrap\obj\Debug\net5.0\cshrap.csproj.AssemblyReference.cache
+F:\cshrap\obj\Debug\net5.0\cshrap.GeneratedMSBuildEditorConfig.editorconfig
+F:\cshrap\obj\Debug\net5.0\cshrap.AssemblyInfoInputs.cache
+F:\cshrap\obj\Debug\net5.0\cshrap.AssemblyInfo.cs
+F:\cshrap\obj\Debug\net5.0\cshrap.csproj.CoreCompileInputs.cache
+F:\cshrap\obj\Debug\net5.0\cshrap.dll
+F:\cshrap\obj\Debug\net5.0\ref\cshrap.dll
+F:\cshrap\obj\Debug\net5.0\cshrap.pdb
+F:\cshrap\obj\Debug\net5.0\cshrap.genruntimeconfig.cache
